@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "f6d0b76f28f937aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "a62ae93c0dc5e9b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5acf9d7389561881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pov/Finds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1522c48151edadfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1e83f880dbebc2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "694cc548729ef9c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa6eeeaff8e4b890",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca94918f3e6d59e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5594a2d04e1cf05",
+    "type": "split",
+    "children": [
+      {
+        "id": "03bef2d2d5b7b641",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fe19bd42ed00cbd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pov/Finds.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6aeee6e156766f5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pov/Finds.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b8e301bc71b8094",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "96b5d373480176db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pov/Finds.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5acf9d7389561881",
+  "lastOpenFiles": [
+    "Pov/4. New revshell.md",
+    "Pov/3. Revshell.md",
+    "Pov/Screenshots/permissions.png",
+    "Pov/2. dev.md",
+    "Pov/1. Nmap.md",
+    "Pov/Screenshots",
+    "Pov/Finds.md",
+    "Pov",
+    "Welcome.md"
+  ]
+}

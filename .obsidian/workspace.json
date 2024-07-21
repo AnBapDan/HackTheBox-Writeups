@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pov/Finds.md",
+                "file": "Jab/1. Nmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pov/Finds.md",
+                "file": "Jab/1. Nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pov/Finds.md",
+                "file": "Jab/1. Nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pov/Finds.md"
+                "file": "Jab/1. Nmap.md"
               }
             }
           }
@@ -148,13 +148,25 @@
   },
   "active": "5acf9d7389561881",
   "lastOpenFiles": [
+    "Jab/2. psi.md",
+    "Jab/3. jmontogmery.md",
+    "Jab/4. BloodHound.md",
+    "Jab/5. Reverse Shell.md",
+    "Jab/7. website.md",
+    "Jab/6. Chisel.md",
+    "Jab/Screenshots/Pasted image 20240514143640.png",
+    "Pov/Finds.md",
+    "Jab/Screenshots/Pasted image 20240514152036.png",
+    "Jab/Screenshots/Pasted image 20240514151718.png",
+    "Jab/Screenshots",
+    "Jab/1. Nmap.md",
+    "Jab",
     "Pov/4. New revshell.md",
     "Pov/3. Revshell.md",
     "Pov/Screenshots/permissions.png",
     "Pov/2. dev.md",
     "Pov/1. Nmap.md",
     "Pov/Screenshots",
-    "Pov/Finds.md",
     "Pov",
     "Welcome.md"
   ]

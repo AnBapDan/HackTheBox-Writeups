@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jab/1. Nmap.md",
+                "file": "Crafty/4. Revshell.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jab/1. Nmap.md",
+                "file": "Crafty/4. Revshell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jab/1. Nmap.md",
+                "file": "Crafty/4. Revshell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jab/1. Nmap.md"
+                "file": "Crafty/4. Revshell.md"
               }
             }
           }
@@ -148,6 +148,16 @@
   },
   "active": "694cc548729ef9c9",
   "lastOpenFiles": [
+    "Crafty/Screenshots/Pasted image 20240612234656.png",
+    "Crafty/Screenshots/Pasted image 20240612233809.png",
+    "Crafty/Screenshots/Pasted image 20240612232255.png",
+    "Crafty/Screenshots",
+    "Crafty/3. Port 25565.md",
+    "Crafty/2. Port 80.md",
+    "Crafty/1. Nmap.md",
+    "Crafty/4. Revshell.md",
+    "Jab/1. Nmap.md",
+    "Crafty",
     "Headless/Screenshots/Pasted image 20240513131008.png",
     "Headless/Screenshots/Pasted image 20240513125515.png",
     "Headless/Screenshots/Pasted image 20240513125446.png",
@@ -162,7 +172,6 @@
     "Headless",
     "Help/Screenshots/Pasted image 20240523172635.png",
     "Help/Screenshots/Pasted image 20240523164953.png",
-    "Help/Screenshots/Pasted image 20240523162055.png",
     "Help/Screenshots",
     "Help/4. Privesc.md",
     "Help/3. Port 3000.md",
@@ -175,11 +184,8 @@
     "Jab/5. Reverse Shell.md",
     "Jab/7. website.md",
     "Jab/6. Chisel.md",
-    "Jab/Screenshots/Pasted image 20240514143640.png",
     "Pov/Finds.md",
-    "Jab/Screenshots/Pasted image 20240514152036.png",
     "Jab/Screenshots",
-    "Jab/1. Nmap.md",
     "Jab",
     "Pov/4. New revshell.md",
     "Pov/3. Revshell.md",

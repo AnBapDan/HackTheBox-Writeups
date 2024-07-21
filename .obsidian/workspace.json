@@ -146,8 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5acf9d7389561881",
+  "active": "694cc548729ef9c9",
   "lastOpenFiles": [
+    "Help/Screenshots/Pasted image 20240523172635.png",
+    "Help/Screenshots/Pasted image 20240523164953.png",
+    "Help/Screenshots/Pasted image 20240523162055.png",
+    "Help/Screenshots",
+    "Help/4. Privesc.md",
+    "Help/3. Port 3000.md",
+    "Help/2. Port 80.md",
+    "Help/1. Nmap.md",
+    "Help",
     "Jab/2. psi.md",
     "Jab/3. jmontogmery.md",
     "Jab/4. BloodHound.md",

@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49fd686c31999a8e",
+  "active": "694cc548729ef9c9",
   "lastOpenFiles": [
     "WifineticTwo/3. Revshell.md",
     "README.md",

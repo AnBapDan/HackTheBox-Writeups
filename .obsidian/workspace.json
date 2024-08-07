@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -141,13 +142,21 @@
                 "file": "README.md"
               }
             }
+          },
+          {
+            "id": "a254033fec7b8213",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,8 +170,25 @@
   },
   "active": "49fd686c31999a8e",
   "lastOpenFiles": [
-    "Crafty/4. Revshell.md",
+    "WifineticTwo/3. Revshell.md",
     "README.md",
+    "Pov/3. Revshell.md",
+    "Pov/4. New revshell.md",
+    "Pov/2. dev.md",
+    "Pov/1. Nmap.md",
+    "WifineticTwo/2. Port 8080.md",
+    "WifineticTwo/Screenshots/Pasted image 20240513170128.png",
+    "WifineticTwo/Screenshots",
+    "WifineticTwo/1. Nmap.md",
+    "WifineticTwo",
+    "_R_ WifineticTwo (pwned)/Pasted image 20240513170128.png",
+    "_R_ WifineticTwo (pwned)/3. Revshell.md",
+    "_R_ WifineticTwo (pwned)/2. Port 8080.md",
+    "_R_ WifineticTwo (pwned)/1. Nmap.md",
+    "_R_ WifineticTwo (pwned)",
+    "Pov/Finds.md",
+    "Pov/Screenshots/permissions.png",
+    "Crafty/4. Revshell.md",
     "Crafty/Screenshots/Pasted image 20240612234656.png",
     "Crafty/Screenshots/Pasted image 20240612233809.png",
     "Crafty/Screenshots/Pasted image 20240612232255.png",
@@ -176,15 +202,12 @@
     "Headless/Screenshots/Pasted image 20240513125515.png",
     "Headless/Screenshots/Pasted image 20240513125446.png",
     "Headless/Screenshots/Pasted image 20240513125336.png",
-    "Headless/Screenshots/Pasted image 20240513124205.png",
-    "Headless/Screenshots/Pasted image 20240513124153.png",
     "Headless/Screenshots",
     "Headless/4. PrivEsc.md",
     "Headless/3. Dashboard.md",
     "Headless/2. XSS.md",
     "Headless/1. Nmap.md",
     "Headless",
-    "Help/Screenshots/Pasted image 20240523172635.png",
     "Help/Screenshots",
     "Help/4. Privesc.md",
     "Help/3. Port 3000.md",
@@ -192,20 +215,6 @@
     "Help/1. Nmap.md",
     "Help",
     "Jab/2. psi.md",
-    "Jab/3. jmontogmery.md",
-    "Jab/4. BloodHound.md",
-    "Jab/5. Reverse Shell.md",
-    "Jab/7. website.md",
-    "Jab/6. Chisel.md",
-    "Pov/Finds.md",
-    "Jab/Screenshots",
-    "Jab",
-    "Pov/4. New revshell.md",
-    "Pov/3. Revshell.md",
-    "Pov/2. dev.md",
-    "Pov/1. Nmap.md",
-    "Pov/Screenshots",
-    "Pov",
-    "Welcome.md"
+    "Jab/Screenshots"
   ]
 }
